@@ -1,3 +1,94 @@
 body {
-    background-color: red;
+    background-color: white;
 }
+
+.top-nav {
+    float: right;
+    display: inline-flex;
+    clear: both;
+}
+
+.top-nav div {
+    padding-right: 10px;
+
+}
+
+img {
+    padding-top: 109px;
+    width: 300px;
+}
+
+.center {
+    margin: 0 auto;
+    width: 25%;
+}
+
+textarea {
+    clear: both;
+}
+
+.center-search {
+    width: 40%;
+    margin: 0 auto;
+    padding-right: 4em;
+}
+
+.input-field {
+    width: 100%;
+    height: 2em;
+}
+
+div .search-button {
+    padding-top: .75em;
+}
+
+.gsearch, .luckysearch {
+    height: 36px;
+    line-height: 27px;
+}
+
+input[type="button"] {
+    background-color: #f2f2f2;
+    font-weight: 700;
+}
+
+.top-space {
+    padding-top: .75em;
+}
+
+.footer {
+    bottom: 0;
+    height: 40px;
+    position: absolute;
+    width: 100%;
+    background-color: #f2f2f2;
+    padding-top: 1em;
+}
+
+.footer-right {
+    float: right;
+    padding-right: 1em;
+}
+
+.footer-left {
+    float: left;
+    padding-left: 1em;
+}
+
+.fbar span a {
+    margin-right: 1.5em;
+    color: #666;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
