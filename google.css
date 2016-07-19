@@ -6,10 +6,12 @@ body {
     float: right;
     display: inline-flex;
     clear: both;
+    cursor: auto;
 }
 
 .top-nav div {
     padding-right: 10px;
+    padding-top: .5em;
 
 }
 
@@ -80,12 +82,31 @@ input[type="button"] {
     color: #666;
 }
 
+/*Styling for the logo in the top right hand corner*/
+.circle {
+    background: aqua;
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+    margin-top: -.25em;
+}
 
+.circle center {
+    color: white;
+    margin: 0 auto;
+    margin-top: -.25em;
+    margin-left: .25em;
+    font-size: 2em;
+}
 
+a {
+    text-decoration: none;
+    color: #666;
+}
 
-
-
-
+center a {
+    color: white;
+}
 
 
 
