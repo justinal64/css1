@@ -1,5 +1,7 @@
 body {
     background-color: white;
+    font-family: small arial, sans-serif;
+    font-size: .80em;
 }
 
 .top-nav {
@@ -32,7 +34,9 @@ textarea {
 .center-search {
     width: 40%;
     margin: 0 auto;
-    padding-right: 4em;
+    /*padding-right: 4em;*/
+    /*Trying to get mic to show up in input*/
+    /*background: url("img/mic.png") no-repeat;*/
 }
 
 .input-field {
@@ -108,6 +112,9 @@ center a {
     color: white;
 }
 
+/*.mic {
+    background: #00ff00 url("img/mic.png") no-repeat;
+}*/
 
 
 
