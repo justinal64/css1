@@ -26,6 +26,23 @@ body {
     border-color: aqua;
 }
 
+/*Navigation styling*/
+.top-nav {
+    background-color: goldenrod;
+    height: 45px;
+}
+
+.top-nav li {
+    list-style-type: none;
+    font-family: "Arial";
+    padding: 0 5px;
+    float: left;
+    margin:0 12px;
+    cursor: pointer;
+}
+
+
+
 /*
 .new-border2 {
     border-width: 2px;
